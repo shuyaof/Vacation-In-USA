@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# Vacation in USA
 This activity is accessing information through API, then create weather and location info for vacation spots.
 1. We use Python codes to perform filter search cities that meet the temperature criteria: 
 ![alt text](https://github.com/shuyaof/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG "all qualified cities")
